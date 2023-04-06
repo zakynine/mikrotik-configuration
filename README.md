@@ -9,3 +9,5 @@ Beberapa teknologi jaringan yang sudah saya aplikasikan antara lain :
 * VLAN
 * Port Forwarding
 * QoS
+* Bridging
+* 
